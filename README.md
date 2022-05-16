@@ -1,5 +1,5 @@
 
-
+v1.0
 <!-- toc -->
 
 - [Ruby Sample App on OpenShift](#ruby-sample-app-on-openshift)
